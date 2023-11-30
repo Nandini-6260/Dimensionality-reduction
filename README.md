@@ -1,7 +1,7 @@
 # Dimensionality-reduction
--Nandini 21BCS3816
--Ravi 21BCS3811
--Tejas Asthana 21BCS3817    
--Vanshika Sharma 21BCS3782
+<br>Nandini 21BCS3816
+<br>Ravi 21BCS3811
+<br>Tejas Asthana 21BCS3817
+<br>Vanshika Sharma 21BCS3782
 
-Supervised by PULKIT DWIVEDI
+<br>Supervised by PULKIT DWIVEDI
